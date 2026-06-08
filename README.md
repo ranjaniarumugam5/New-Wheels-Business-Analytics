@@ -56,15 +56,6 @@ Develop quarterly business reports for the CEO by analyzing customer behavior, s
 
 The analysis revealed that increasing shipping delays were the primary driver behind declining customer satisfaction, reduced order volume, and falling revenue, enabling data-driven recommendations for business improvement.
 
-### 🔹 New Wheels Business Analytics
-
-👉 https://github.com/ranjaniarumugam5/New-Wheels-Business-Analytics
-
-• Analyzed a vehicle resale company's database and developed quarterly business reports using SQL.
-
-• Performed advanced SQL analysis using JOINs, GROUP BY, CASE WHEN, subqueries, and window functions to identify declining revenue, order volume, and customer satisfaction.
-
-• Determined that increasing shipping delays were the primary driver of customer dissatisfaction, leading to reduced orders and revenue, and provided data-driven business recommendations.
 ## Author
 
 Ranjani Arumugam
